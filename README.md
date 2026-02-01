@@ -29,42 +29,10 @@ Future AI / ML Engineer & Data Scientist
 
 ---
 
-### 🤖 ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=for-the-badge)
-
----
-
-### 👁️ Computer Vision
-![Object Detection](https://img.shields.io/badge/Object_Detection-green?style=for-the-badge)
-![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-purple?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv)
-
----
-
-### 🧠 LLMs & Generative AI
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-gray?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
-
----
-
-### 🗄 Databases & Vector Stores
+### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddharthAnumula&show_icons=true&theme=tokyonight)
 
 ---
 
