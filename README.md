@@ -85,7 +85,7 @@
 **DevOps Fundamentals & Tools**  
 🛠 Jenkins • Docker • Git • CI/CD
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/devops certification.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/devopscertification.pdf)
 
 
 ---
@@ -93,7 +93,7 @@
 
 ### 🏅 Technology job simulation Certification – deloitte
 **Project to Understand Tech**
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/Technology job simulation by deloitte.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/Technologyjobsimulationbydeloitte.pdf)
 
 
 ---
@@ -101,7 +101,7 @@
 ### 🏅 Data Analytics Certification – deloitte
 **Data Analytics Project Task**
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/Data Analytics Deloitte Certified.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/DataAnalyticsDeloitteCertified.pdf)
 
 ---
 
@@ -114,7 +114,6 @@
 
 ### 🚀 Welcome Certification 2024 - Servicenow
 **Welcome Task**  
-🌍 Built a data-driven solution for a real-world space problem.
 
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge)](certificates/Micro-Certification_by_Servicenow.pdf)
 
