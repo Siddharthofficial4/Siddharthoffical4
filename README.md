@@ -71,14 +71,6 @@
 
 ---
 
-## 🤝 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:anumulasiddharth4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anumulasiddharth4)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SiddharthAnumula)
-
----
-
 ## 🏆 Achievements & Certifications
 
 ### ☁️ DevOps Certification – Infosys Springboard
@@ -93,6 +85,7 @@
 
 ### 🏅 Technology job simulation Certification – deloitte
 **Project to Understand Tech**
+
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/Technologyjobsimulationbydeloitte.pdf)
 
 
@@ -116,5 +109,13 @@
 **Welcome Task**  
 
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge)](certificates/Micro-Certification_by_Servicenow.pdf)
+
+---
+
+## 🤝 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:anumulasiddharth4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anumulasiddharth4)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SiddharthAnumula)
 
 
