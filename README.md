@@ -43,3 +43,29 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:anumulasiddharth4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anumulasiddharth4)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SiddharthAnumula)
+
+---
+
+## 🏆 Achievements & Certifications
+
+### 🚀 NASA Space Apps Challenge 2023
+**Top 40 Team (Global)**  
+🌍 Built a data-driven solution for a real-world space problem.
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge)](certificates/nasa-space-apps.png)
+
+---
+
+### ☁️ DevOps Certification – Infosys Springboard
+**DevOps Fundamentals & Tools**  
+🛠 Jenkins • Docker • Git • CI/CD
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/devops-infosys.pdf)
+
+---
+
+### 🏅 Major Project Certification – VBIT
+**Official Academic Project Certification**
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/major-project-vbit.pdf)
+
