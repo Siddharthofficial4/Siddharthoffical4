@@ -1,9 +1,10 @@
 # Siddharthoffical4
-<h1 align="center">👋 Hey, I'm Siddharth Anumula</h1>
-<h3 align="center">
-Curious Mind in AI & ML | Love to Learn & Build 🚀 <br/>
-Future AI / ML Engineer & Data Scientist
-</h3>
+<h1 align="center">Siddharth Anumula</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&pause=1000&color=0A66C2&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Engineer;LLMs+%7C+Deep+Learning+%7C+RAG;Building+Production-Ready+AI+Systems" />
+</p>
+
 
 ---
 
@@ -11,15 +12,16 @@ Future AI / ML Engineer & Data Scientist
 
 - 🎓 **B.Tech in Data Science**
 - 📍 **India**
-- 🧠 Background in **Mathematics & Programming**
-- 🔭 Interests: **AI, ML, Deep Learning, LLMs, RAG, MLOps**
-- 💡 *Building intelligent, scalable AI systems that solve real-world problems*
+- 🧠 Background in **Data Science & AI Developing**
+- 🔭 Interests: **AI, Cloud, and Building modern systems**
+- 💡 *Develop -> Demonstrate -> Deploy*
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🔹 Languages
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
