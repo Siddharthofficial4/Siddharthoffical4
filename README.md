@@ -48,24 +48,40 @@
 
 ## 🏆 Achievements & Certifications
 
-### 🚀 NASA Space Apps Challenge 2023
-**Top 40 Team (Global)**  
-🌍 Built a data-driven solution for a real-world space problem.
-
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge)](certificates/nasa-space-apps.png)
-
----
-
 ### ☁️ DevOps Certification – Infosys Springboard
 **DevOps Fundamentals & Tools**  
 🛠 Jenkins • Docker • Git • CI/CD
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/devops-infosys.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/Technology job simulation by deloitte.pdf)
+
+
+---
+
+
+### 🏅 Technology job simulation Certification – deloitte
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/Technology job simulation by deloitte.pdf)
+
+
+---
+
+### 🏅 Data Analytics Certification – deloitte
+**Official Academic Project Certification**
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/Data Analytics Deloitte Certified.pdf)
 
 ---
 
 ### 🏅 Major Project Certification – VBIT
 **Official Academic Project Certification**
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/major-project-vbit.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/)
+
+---
+
+### 🚀 Welcome Certification 2024 - Servicenow
+**Top 40 Team (Global)**  
+🌍 Built a data-driven solution for a real-world space problem.
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge)](certificates/Micro-Certification_by_Servicenow.pdf)
 
