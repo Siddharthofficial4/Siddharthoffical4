@@ -86,7 +86,7 @@
 ### 🏅 Technology job simulation Certification – deloitte
 **Project to Understand Tech**
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/Technologyjobsimulationbydeloitte.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge)](certificates/Technology_job_simulation_by_deloitte.pdf)
 
 
 ---
@@ -94,7 +94,7 @@
 ### 🏅 Data Analytics Certification – deloitte
 **Data Analytics Project Task**
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/DataAnalyticsDeloitteCertified.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge)](certificates/Data_Analytics_Deloitte_Certified.pdf)
 
 ---
 
